@@ -6,7 +6,7 @@ from rich.panel import Panel
 from datetime import datetime
 
 # Set up the Anthropic API client
-client = Anthropic(api_key="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")
+client = Anthropic(api_key="")
 
 # Initialize the Rich Console
 console = Console()
